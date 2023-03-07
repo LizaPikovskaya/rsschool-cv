@@ -31,4 +31,9 @@ lity work.
 <p class="text">I can realize my potencial and use my personal skills for realization purposes of company. </p>
 ```
 
+## Education
+University: Bachelor's degree in Odesa National Mechnicov University, Managment, 2012-2016
+
+## English
+Intermediate: CEFF B1. 
 
